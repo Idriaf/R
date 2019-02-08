@@ -1,4 +1,12 @@
 #----------------------------------------------
+#The Evolution of the 3-Point Shot in the NBA
+#Will an increase in number of three pointers, improve three point percentage? 
+#Investigate further on a team-to-team basis 
+#Could the 3-Point shot be a fad, or will it be a long-lasting tool for years to come?
+#How have three point attempts affected the pace of play (measured in fouls)
+
+
+#----------------------------------------------
 #Dana, Dan and Ian R Doc
 
 #----------------------------------------------
